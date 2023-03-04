@@ -1,0 +1,17 @@
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\controller\AuthController.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\service\UserDetailsServiceImpl.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\service\UserService.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\CoProApplication.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\repository\MessageRepository.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\util\JwtUtil.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\repository\UserRepository.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\util\CustomPasswordEncoder.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\config\SecurityConfig.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\domain\User.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\filter\JwtFilter.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\service\MessageService.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\util\Utility.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\domain\Message.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\service\VerficationService.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\controller\SignUpController.java
+C:\Users\marin\Desktop\deploytoazure.zip_expanded\CoPro\src\main\java\com\Fintech\CoPro\dto\AuthCredentialsRequest.java
